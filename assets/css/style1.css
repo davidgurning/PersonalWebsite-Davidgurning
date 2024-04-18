@@ -1,0 +1,6 @@
+.portfolio-details-slider .swiper-slide img {
+    max-width: 100%; /* Membuat gambar tidak melebihi lebar container */
+    max-height: 100%; /* Membuat gambar tidak melebihi tinggi container */
+    width: auto; /* Menyesuaikan lebar gambar secara otomatis */
+    height: auto; /* Menyesuaikan tinggi gambar secara otomatis */
+}
